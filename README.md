@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0001-two-sum) |
 | [0898-transpose-matrix](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0898-transpose-matrix) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [3194-find-words-containing-character](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3194-find-words-containing-character) |
 ## Matrix
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0171-excel-sheet-column-number) |
+| [3194-find-words-containing-character](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3379-score-of-a-string) |
 ## Stack
 |  |
