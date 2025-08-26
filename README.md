@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0898-transpose-matrix](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0898-transpose-matrix) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0387-first-unique-character-in-a-string) |
 ## String
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0387-first-unique-character-in-a-string) |
 ## Binary Search
 |  |
@@ -74,9 +77,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0136-single-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
