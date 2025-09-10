@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0001-two-sum) |
+| [0042-trapping-rain-water](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0075-sort-colors) |
@@ -61,10 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0042-trapping-rain-water) |
 ## Two Pointers
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0283-move-zeroes) |
@@ -114,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## String Matching
@@ -124,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0003-longest-substring-without-repeating-characters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
