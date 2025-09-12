@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0067-add-binary) |
 | [0898-transpose-matrix](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0898-transpose-matrix) |
 ## Hash Table
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0171-excel-sheet-column-number) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0171-excel-sheet-column-number) |
 | [0504-base-7](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0504-base-7) |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0136-single-number) |
 ## Divide and Conquer
 |  |
