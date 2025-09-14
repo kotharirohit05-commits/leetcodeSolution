@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0067-add-binary) |
@@ -148,4 +149,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0042-trapping-rain-water) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
