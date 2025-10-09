@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0171-excel-sheet-column-number) |
 | [0204-count-primes](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0204-count-primes) |
 | [0504-base-7](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0504-base-7) |
+| [1013-fibonacci-number](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1013-fibonacci-number) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3567-convert-date-to-binary](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3567-convert-date-to-binary) |
 | [3830-find-closest-person](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3830-find-closest-person) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1013-fibonacci-number](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1013-fibonacci-number) |
 ## String Matching
 |  |
 | ------- |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0002-add-two-numbers) |
+| [1013-fibonacci-number](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1013-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -211,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0204-count-primes) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
