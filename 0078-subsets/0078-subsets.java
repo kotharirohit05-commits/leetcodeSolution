@@ -4,14 +4,14 @@ class Solution {
         ans.add(new ArrayList<>());
 
         for(int i = 0 ; i < nums.length ; i++){
-            int num = nums[i] ;
+            int num = nums[i];
             int size = ans.size();
 
-        for(int j = 0 ; j < size ; j++){
-            List<Integer> subset = new ArrayList<>(ans.get(j));
-            subset.add(nums[i]);
-            ans.add(subset);
-        }
+            for(int j = 0 ; j < size ; j++){
+                List<Integer> res = new ArrayList(ans.get(j));
+                res.add(nums[i]);
+                ans.add(res);
+            }
         }
         return ans;
     }
