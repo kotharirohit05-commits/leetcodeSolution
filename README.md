@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1019-squares-of-a-sorted-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1944-truncate-sentence](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1944-truncate-sentence) |
+| [2662-check-knight-tour-configuration](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2662-check-knight-tour-configuration) |
 | [3194-find-words-containing-character](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3194-find-words-containing-character) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Matrix
@@ -48,12 +49,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0898-transpose-matrix](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0898-transpose-matrix) |
+| [2662-check-knight-tour-configuration](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2662-check-knight-tour-configuration) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0067-add-binary) |
 | [0898-transpose-matrix](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0898-transpose-matrix) |
+| [2662-check-knight-tour-configuration](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2662-check-knight-tour-configuration) |
 ## Hash Table
 |  |
 | ------- |
@@ -236,4 +239,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0131-palindrome-partitioning) |
+## Depth-First Search
+|  |
+| ------- |
+| [2662-check-knight-tour-configuration](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2662-check-knight-tour-configuration) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2662-check-knight-tour-configuration](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2662-check-knight-tour-configuration) |
 <!---LeetCode Topics End-->
