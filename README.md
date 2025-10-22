@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0204-count-primes) |
 | [0504-base-7](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0504-base-7) |
 | [1013-fibonacci-number](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1013-fibonacci-number) |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1642-water-bottles](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1642-water-bottles) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3279-alice-and-bob-playing-flower-game) |
