@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0611-valid-triangle-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0682-baseball-game) |
 | [0792-binary-search](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0204-count-primes) |
 | [0441-arranging-coins](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0441-arranging-coins) |
 | [0504-base-7](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0504-base-7) |
+| [0628-maximum-product-of-three-numbers](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1086-divisor-game) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0349-intersection-of-two-arrays) |
 | [0611-valid-triangle-number](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0611-valid-triangle-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0941-sort-array-by-parity](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1019-squares-of-a-sorted-array) |
 ## Bit Manipulation
