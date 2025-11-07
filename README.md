@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0628-maximum-product-of-three-numbers) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0387-first-unique-character-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0496-next-greater-element-i) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0937-online-stock-span) |
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0937-online-stock-span) |
 ## Linked List
