@@ -338,4 +338,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0830-largest-triangle-area) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
