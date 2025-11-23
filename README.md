@@ -360,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0620-not-boring-movies](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0620-not-boring-movies) |
 | [0627-swap-sex-of-employees](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0627-swap-sex-of-employees) |
 | [1258-article-views-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1258-article-views-i) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1811-fix-names-in-a-table](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1811-fix-names-in-a-table) |
 | [1827-invalid-tweets](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1908-recyclable-and-low-fat-products) |
