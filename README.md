@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1021-remove-outermost-parentheses](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1021-remove-outermost-parentheses) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1544-make-the-string-great](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1544-make-the-string-great) |
 | [1944-truncate-sentence](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1944-truncate-sentence) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0856-score-of-parentheses) |
 | [0937-online-stock-span](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0937-online-stock-span) |
 | [1021-remove-outermost-parentheses](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1021-remove-outermost-parentheses) |
+| [1544-make-the-string-great](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1544-make-the-string-great) |
 ## Two Pointers
 |  |
 | ------- |
