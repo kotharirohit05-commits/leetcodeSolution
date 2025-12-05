@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0739-daily-temperatures) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0155-min-stack) |
 | [0937-online-stock-span](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0937-online-stock-span) |
 ## Data Stream
 |  |
