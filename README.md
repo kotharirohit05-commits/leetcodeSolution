@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0682-baseball-game) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0739-daily-temperatures](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0739-daily-temperatures) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0792-binary-search) |
 | [0830-largest-triangle-area](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0830-largest-triangle-area) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0611-valid-triangle-number) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0882-peak-index-in-a-mountain-array) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
