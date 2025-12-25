@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0051-n-queens) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0240-search-a-2d-matrix-ii) |
