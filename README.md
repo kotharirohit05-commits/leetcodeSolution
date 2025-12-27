@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0898-transpose-matrix) |
 | [0941-sort-array-by-parity](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0941-sort-array-by-parity) |
+| [0944-delete-columns-to-make-sorted](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0944-delete-columns-to-make-sorted) |
 | [1019-squares-of-a-sorted-array](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1019-squares-of-a-sorted-array) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1590-make-sum-divisible-by-p](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1590-make-sum-divisible-by-p) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0857-positions-of-large-groups](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0857-positions-of-large-groups) |
 | [0859-buddy-strings](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0859-buddy-strings) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0884-uncommon-words-from-two-sentences) |
+| [0944-delete-columns-to-make-sorted](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0944-delete-columns-to-make-sorted) |
 | [1021-remove-outermost-parentheses](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1264-maximum-number-of-words-you-can-type) |
