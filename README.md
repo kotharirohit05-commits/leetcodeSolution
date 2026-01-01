@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0349-intersection-of-two-arrays) |
+| [0374-guess-number-higher-or-lower](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0611-valid-triangle-number) |
@@ -458,4 +459,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
