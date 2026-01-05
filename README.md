@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0171-excel-sheet-column-number) |
 | [0204-count-primes](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0204-count-primes) |
+| [0367-valid-perfect-square](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0441-arranging-coins) |
 | [0504-base-7](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0504-base-7) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0540-single-element-in-a-sorted-array) |
