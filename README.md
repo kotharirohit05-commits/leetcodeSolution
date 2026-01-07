@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0540-single-element-in-a-sorted-array) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0387-first-unique-character-in-a-string) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0560-subarray-sum-equals-k) |
