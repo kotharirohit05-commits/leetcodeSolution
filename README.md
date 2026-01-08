@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-truncate-sentence](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1944-truncate-sentence) |
 | [1975-maximum-matrix-sum](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1975-maximum-matrix-sum) |
 | [1991-find-the-middle-index-in-array](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1991-find-the-middle-index-in-array) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1590-make-sum-divisible-by-p](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1590-make-sum-divisible-by-p) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1636-sort-array-by-increasing-frequency) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2190-most-frequent-number-following-key-in-an-array) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0692-top-k-frequent-words) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0884-uncommon-words-from-two-sentences) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
