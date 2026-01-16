@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1019-squares-of-a-sorted-array](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1019-squares-of-a-sorted-array) |
 | [1266-minimum-time-visiting-all-points](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1266-minimum-time-visiting-all-points) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1390-four-divisors](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1390-four-divisors) |
 | [1470-shuffle-the-array](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1470-shuffle-the-array) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0792-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0875-koko-eating-bananas) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2563-count-the-number-of-fair-pairs) |
