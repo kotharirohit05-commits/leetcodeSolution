@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1360-number-of-days-between-two-dates](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1360-number-of-days-between-two-dates) |
 | [1544-make-the-string-great](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1544-make-the-string-great) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1859-sorting-the-sentence](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1859-sorting-the-sentence) |
 | [1903-largest-odd-number-in-string](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1903-largest-odd-number-in-string) |
 | [1944-truncate-sentence](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1944-truncate-sentence) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1544-make-the-string-great) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Two Pointers
 |  |
 | ------- |
