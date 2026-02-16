@@ -5,7 +5,6 @@ class Solution {
             left = left >> 1;
             right = right >> 1;
             count++;
-            
         }
         left = left << count;
         return left;
