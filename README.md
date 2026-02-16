@@ -461,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0136-single-number) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0260-single-number-iii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0287-find-the-duplicate-number) |
 | [0461-hamming-distance](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0461-hamming-distance) |
