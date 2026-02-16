@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1019-squares-of-a-sorted-array](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1019-squares-of-a-sorted-array) |
+| [1037-valid-boomerang](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1037-valid-boomerang) |
 | [1266-minimum-time-visiting-all-points](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1266-minimum-time-visiting-all-points) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0830-largest-triangle-area) |
 | [0989-add-to-array-form-of-integer](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0989-add-to-array-form-of-integer) |
 | [1013-fibonacci-number](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1013-fibonacci-number) |
+| [1037-valid-boomerang](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1037-valid-boomerang) |
 | [1086-divisor-game](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1086-divisor-game) |
 | [1266-minimum-time-visiting-all-points](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1266-minimum-time-visiting-all-points) |
 | [1360-number-of-days-between-two-dates](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1360-number-of-days-between-two-dates) |
@@ -610,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0830-largest-triangle-area) |
+| [1037-valid-boomerang](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1037-valid-boomerang) |
 | [1266-minimum-time-visiting-all-points](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1266-minimum-time-visiting-all-points) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 ## Database
