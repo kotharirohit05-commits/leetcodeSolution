@@ -21,8 +21,8 @@ class MyStack {
     }
     
     public boolean empty() {
-        if(queue.isEmpty()) return true;
-        else return false;
+        return (queue.isEmpty());
+        
     }
 }
 
