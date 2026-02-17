@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0682-baseball-game) |
 | [0898-transpose-matrix](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0898-transpose-matrix) |
+| [1103-distribute-candies-to-people](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1103-distribute-candies-to-people) |
 | [1642-water-bottles](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1642-water-bottles) |
 | [1929-concatenation-of-array](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1929-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1013-fibonacci-number) |
 | [1037-valid-boomerang](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1037-valid-boomerang) |
 | [1086-divisor-game](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1086-divisor-game) |
+| [1103-distribute-candies-to-people](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1103-distribute-candies-to-people) |
 | [1266-minimum-time-visiting-all-points](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1266-minimum-time-visiting-all-points) |
 | [1360-number-of-days-between-two-dates](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1360-number-of-days-between-two-dates) |
 | [1390-four-divisors](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1390-four-divisors) |
