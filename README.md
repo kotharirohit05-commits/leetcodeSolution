@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2404-most-frequent-even-element](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2404-most-frequent-even-element) |
+| [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2574-left-and-right-sum-differences](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2574-left-and-right-sum-differences) |
 | [2662-check-knight-tour-configuration](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2662-check-knight-tour-configuration) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1019-squares-of-a-sorted-array) |
 | [2000-reverse-prefix-of-word](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2000-reverse-prefix-of-word) |
+| [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
