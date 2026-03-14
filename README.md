@@ -367,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1086-divisor-game](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1086-divisor-game) |
 | [1103-distribute-candies-to-people](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1103-distribute-candies-to-people) |
 | [1266-minimum-time-visiting-all-points](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1266-minimum-time-visiting-all-points) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1360-number-of-days-between-two-dates](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1360-number-of-days-between-two-dates) |
 | [1390-four-divisors](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1390-four-divisors) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -518,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0693-binary-number-with-alternating-bits](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0693-binary-number-with-alternating-bits) |
 | [0779-k-th-symbol-in-grammar](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0779-k-th-symbol-in-grammar) |
 | [1009-complement-of-base-10-integer](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1009-complement-of-base-10-integer) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1486-xor-operation-in-an-array](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1486-xor-operation-in-an-array) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
