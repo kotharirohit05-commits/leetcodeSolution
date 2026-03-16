@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1590-make-sum-divisible-by-p](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1590-make-sum-divisible-by-p) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1652-defuse-the-bomb](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1652-defuse-the-bomb) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1929-concatenation-of-array) |
 | [1944-truncate-sentence](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1944-truncate-sentence) |
@@ -570,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1652-defuse-the-bomb](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1652-defuse-the-bomb) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Monotonic Stack
 |  |
