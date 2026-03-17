@@ -1,19 +1,21 @@
 class Solution {
     public int countKConstraintSubstrings(String s, int k) {
+        int left = 0;
         int count = 0;
-        for(int i = 0 ; i < s.length() ; i++){
-            HashMap<Character , Integer> map = new HashMap<>();
-            for(int j = i ; j < s.length() ; j++){
-                char ch = s.charAt(j);
-                map.put(ch , map.getOrDefault(ch , 0) + 1);
-                int zeros = map.getOrDefault('0' , 0);
-                int ones = map.getOrDefault('1' , 0);
-                if(zeros > k && ones > k){
-                    break;
-                }else{
-                    count += 1;
-                }
+        int zeros = 0;
+        int ones = 0;
+        
+        for(int r = 0 ; r < s.length() ; r++){
+            char ch = s.charAt(r);
+            if(ch == '0') zeros++;
+            else ones++;
+
+            while(zeros > k && ones > k){
+                if(s.charAt(left) == '0') zeros--;
+                else ones--;
+                left++;
             }
+            count += (r - left + 1);
         }
         return count;
     }
