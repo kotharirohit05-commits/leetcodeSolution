@@ -6,18 +6,23 @@ class Solution {
         }
         int count  = 0;
         int distinct = set.size();
+        int left = 0;
+        HashMap<Integer,Integer> map = new HashMap<>();
 
         for(int i = 0 ; i < nums.length ; i++){
-            HashMap<Integer,Integer> map = new HashMap<>();
-            for(int j = i ; j < nums.length ; j++){
-                map.put(nums[j] , map.getOrDefault(nums[j] , 0) + 1);
-
-                if(map.size() == distinct){
-                    count += nums.length - j;
-                    break;
+            map.put(nums[i] , map.getOrDefault(nums[i] , 0) + 1);
+            
+            while(map.size() == distinct){
+                count += (nums.length - i);
+                map.put(nums[left] , map.get(nums[left]) - 1);
+                if(map.get(nums[left]) == 0){
+                    map.remove(nums[left]);
                 }
+                left++;
             }
-        }
+
+            }
         return count;
+        
     }
 }
