@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3194-find-words-containing-character](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3194-find-words-containing-character) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3452-sum-of-good-numbers](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3452-sum-of-good-numbers) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2799-count-complete-subarrays-in-an-array](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -582,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2799-count-complete-subarrays-in-an-array](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -734,6 +737,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0692-top-k-frequent-words) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 ## Interactive
 |  |
 | ------- |
