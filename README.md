@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0792-binary-search) |
+| [0819-most-common-word](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0819-most-common-word) |
 | [0830-largest-triangle-area](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0830-largest-triangle-area) |
 | [0841-shortest-distance-to-a-character](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0841-shortest-distance-to-a-character) |
 | [0860-lemonade-change](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0860-lemonade-change) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0692-top-k-frequent-words) |
+| [0819-most-common-word](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0819-most-common-word) |
 | [0859-buddy-strings](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0859-buddy-strings) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0904-fruit-into-baskets](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0904-fruit-into-baskets) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0686-repeated-string-match](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0686-repeated-string-match) |
 | [0692-top-k-frequent-words](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0692-top-k-frequent-words) |
 | [0812-rotate-string](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0812-rotate-string) |
+| [0819-most-common-word](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0819-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0841-shortest-distance-to-a-character) |
 | [0856-score-of-parentheses](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0856-score-of-parentheses) |
 | [0857-positions-of-large-groups](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0857-positions-of-large-groups) |
@@ -447,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0594-longest-harmonious-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0692-top-k-frequent-words) |
+| [0819-most-common-word](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0819-most-common-word) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0992-subarrays-with-k-different-integers](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0992-subarrays-with-k-different-integers) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
