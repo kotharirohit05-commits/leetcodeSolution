@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2341-maximum-number-of-pairs-in-array](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2404-most-frequent-even-element](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2404-most-frequent-even-element) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2574-left-and-right-sum-differences](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2574-left-and-right-sum-differences) |
 | [2662-check-knight-tour-configuration](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2662-check-knight-tour-configuration) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-count-integers-with-even-digit-sum](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2288-count-operations-to-obtain-zero) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2662-check-knight-tour-configuration](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2662-check-knight-tour-configuration) |
 | [2974-minimum-number-game](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2974-minimum-number-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -782,6 +784,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0692-top-k-frequent-words) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2974-minimum-number-game](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2974-minimum-number-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
