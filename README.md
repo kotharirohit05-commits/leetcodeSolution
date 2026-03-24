@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1248-count-number-of-nice-subarrays) |
 | [1266-minimum-time-visiting-all-points](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1266-minimum-time-visiting-all-points) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1390-four-divisors](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1390-four-divisors) |
@@ -625,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1248-count-number-of-nice-subarrays) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
