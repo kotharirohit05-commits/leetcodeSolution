@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0819-most-common-word) |
 | [0830-largest-triangle-area](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0830-largest-triangle-area) |
 | [0841-shortest-distance-to-a-character](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0841-shortest-distance-to-a-character) |
+| [0846-hand-of-straights](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0875-koko-eating-bananas) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0692-top-k-frequent-words) |
 | [0819-most-common-word](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0819-most-common-word) |
+| [0846-hand-of-straights](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0846-hand-of-straights) |
 | [0859-buddy-strings](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0859-buddy-strings) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0904-fruit-into-baskets](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0904-fruit-into-baskets) |
@@ -539,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0692-top-k-frequent-words) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0846-hand-of-straights](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0846-hand-of-straights) |
 | [0941-sort-array-by-parity](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1019-squares-of-a-sorted-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -672,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0611-valid-triangle-number) |
+| [0846-hand-of-straights](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0860-lemonade-change) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1903-largest-odd-number-in-string](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1903-largest-odd-number-in-string) |
