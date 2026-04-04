@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0485-max-consecutive-ones) |
+| [0495-teemo-attacking](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0540-single-element-in-a-sorted-array) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0415-add-strings) |
+| [0495-teemo-attacking](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0495-teemo-attacking) |
 | [0682-baseball-game](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0735-asteroid-collision) |
 | [0898-transpose-matrix](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0898-transpose-matrix) |
