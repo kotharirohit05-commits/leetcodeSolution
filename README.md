@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0520-detect-capital) |
 | [0686-repeated-string-match](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0686-repeated-string-match) |
 | [0692-top-k-frequent-words](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0692-top-k-frequent-words) |
+| [0709-to-lower-case](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0709-to-lower-case) |
 | [0812-rotate-string](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0812-rotate-string) |
 | [0819-most-common-word](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0819-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0841-shortest-distance-to-a-character) |
