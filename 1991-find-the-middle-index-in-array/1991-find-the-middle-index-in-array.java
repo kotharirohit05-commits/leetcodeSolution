@@ -1,24 +1,18 @@
 class Solution {
     public int findMiddleIndex(int[] nums) {
-        int[] ls = new int[nums.length];
-        int[] rs = new int[nums.length];
-        ls[0] = nums[0];
-    for(int i  = 1 ; i < nums.length ; i++){
-        ls[i] = ls[i-1] + nums[i];
-    }
-    rs[nums.length - 1] = nums[nums.length - 1];
-    for(int i = nums.length - 2 ; i >= 0 ; i--){
-        rs[i] = rs[i+1] + nums[i];
-    }
-    int idx = 0;
-    for(int i = 0; i < nums.length ; i++){
-        int left = (i == 0)? 0 : ls[i-1];
-        int right = (i == nums.length-1)? 0 : rs[i+1];
-        if(left == right){
-            return i;
+        int n = nums.length;
+        int pre[] = new int[n];
+        int suf[] = new int[n];
+        pre[0] = 0;
+        suf[n - 1] = 0;
+        for (int i = 1; i < n; i++)
+            pre[i] = pre[i - 1] + nums[i - 1];
+        for (int i = n - 2; i >= 0; i--)
+            suf[i] = suf[i + 1] + nums[i + 1];
+        for (int i = 0; i < n; i++) {
+            if (pre[i] == suf[i])
+                return i;
         }
-    }
-    return -1;
-
+        return -1;
     }
 }
