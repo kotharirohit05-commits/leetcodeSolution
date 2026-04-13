@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0435-non-overlapping-intervals](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0455-assign-cookies) |
@@ -554,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0435-non-overlapping-intervals](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0455-assign-cookies) |
@@ -632,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0131-palindrome-partitioning) |
+| [0435-non-overlapping-intervals](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0435-non-overlapping-intervals) |
 | [0907-sum-of-subarray-minimums](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0907-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1086-divisor-game) |
@@ -701,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0611-valid-triangle-number) |
