@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -719,6 +720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1903-largest-odd-number-in-string](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1903-largest-odd-number-in-string) |
 | [1975-maximum-matrix-sum](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1975-maximum-matrix-sum) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [3074-apple-redistribution-into-boxes](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3074-apple-redistribution-into-boxes) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
