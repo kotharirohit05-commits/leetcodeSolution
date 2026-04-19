@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3643-flip-square-submatrix-vertically) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
+| [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 ## Matrix
 |  |
 | ------- |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-coupon-code-validator](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3606-coupon-code-validator) |
 | [3713-longest-balanced-substring-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3713-longest-balanced-substring-i) |
+| [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 ## String
 |  |
 | ------- |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-coupon-code-validator](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3606-coupon-code-validator) |
 | [3713-longest-balanced-substring-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3713-longest-balanced-substring-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 ## Stack
 |  |
 | ------- |
@@ -755,6 +758,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1952-three-divisors](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1952-three-divisors) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [3713-longest-balanced-substring-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3713-longest-balanced-substring-i) |
+| [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 ## Number Theory
 |  |
 | ------- |
