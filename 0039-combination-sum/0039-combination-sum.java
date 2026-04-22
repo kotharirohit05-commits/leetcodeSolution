@@ -1,26 +1,23 @@
 class Solution {
-    public List<List<Integer>> combinationSum(int[] arr, int target) {
-        Arrays.sort(arr);
+    public List<List<Integer>> combinationSum(int[] candidates, int target) {
         List<List<Integer>> ans = new ArrayList<>();
-        List<Integer> comb = new ArrayList<>();
-        getcomb(arr , 0 ,target ,comb , ans );
+        List<Integer> current = new ArrayList<>();
+        helper(0 , candidates , target , current , ans);
         return ans;
     }
-    public static void getcomb(int[] arr,int  i ,int target ,List<Integer> comb ,List<List<Integer>> ans){
-        if(i == arr.length || target < 0){
-            return ;
-        }
-        if(target == 0){
-            ans.add(new ArrayList<>(comb));
+    private void helper(int i , int[] candidates , int target , List<Integer>current , List<List<Integer>> ans){
+        int n = candidates.length;
+        if(i == n){
+            if(target == 0){
+                ans.add(new ArrayList<>(current));
+            }
             return;
         }
-
-        comb.add(arr[i]);
-        
-        getcomb(arr , i , target-arr[i] , comb , ans);
-        comb.remove(comb.size() - 1);
-        int next = i+1;
-        while(next < arr.length && arr[next] == arr[i]) next++;
-        getcomb(arr , next , target , comb , ans);
+        if(candidates[i] <=  target ){
+            current.add(candidates[i]);
+            helper(i , candidates , target - candidates[i] , current , ans);
+            current.remove(current.size() - 1);
+        }
+        helper(i+1 , candidates , target  , current , ans);
     }
 }
