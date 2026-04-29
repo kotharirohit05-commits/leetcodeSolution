@@ -1,18 +1,17 @@
 class Solution {
     public List<List<Integer>> subsetsWithDup(int[] nums) {
-        Arrays.sort(nums);  // sort to handle duplicates
-        List<List<Integer>> ans = new ArrayList<>();
+        Arrays.sort(nums);
         List<Integer> current = new ArrayList<>();
-        generate(0, nums, current, ans);
+        List<List<Integer>> ans = new ArrayList<>();
+        helper(0 , nums , ans , current);
         return ans;
     }
-
-    private void generate(int index, int[] nums, List<Integer> current, List<List<Integer>> ans) {
+    private void helper(int ind , int[] nums ,List<List<Integer>> ans , List<Integer> current ){
         ans.add(new ArrayList<>(current));
-        for(int i = index; i < nums.length; i++) {
-            if(i > index && nums[i] == nums[i-1]) continue; // skip duplicates
+        for(int i = ind ; i < nums.length ; i++){
+            if(i > ind && nums[i] == nums[i-1])continue;
             current.add(nums[i]);
-            generate(i + 1, nums, current, ans); // ✅ i + 1
+            helper(i + 1 , nums , ans , current);
             current.remove(current.size() - 1);
         }
     }
