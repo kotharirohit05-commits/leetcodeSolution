@@ -1,33 +1,28 @@
 class Solution {
     public List<List<String>> partition(String s) {
-        List<List<String>> ans = new ArrayList<>();
-        List<String> part = new ArrayList<>();
-        getpart(s , part , ans);
-        return ans ;
-        
+        List<List<String>> res = new ArrayList<>();
+        List<String> curr = new ArrayList<>();
+        helper(0 , s , curr , res);
+        return res;
     }
-    public static void getpart(String s , List<String> part , List<List<String>> ans){
-        if(s.length() == 0) {
-        ans.add(new ArrayList<>(part));
-        return ;
+    private void helper(int ind , String s , List<String> curr , List<List<String>> res ){
+        if(ind == s.length()){
+            res.add(new ArrayList<>(curr));
+            return;
         }
-        for(int i = 0; i < s.length()  ; i++){
-            String prefix = s.substring(0,i+1);
-            if(isPalin(prefix)){
-                part.add(prefix);
-                getpart(s.substring(i+1) ,part , ans);
-                part.remove(part.size() - 1);
+        for(int i = ind ; i < s.length() ; i++){
+            if(isPalimdrome(s , ind , i)){
+                curr.add(s.substring(ind ,i+1));                       
+                helper(i + 1 , s , curr , res);
+                curr.remove(curr.size() - 1);
             }
         }
     }
-    public static boolean isPalin(String s){
-        
-        int i = 0 ; 
-        int j = s.length() - 1;
-        while(i<j){
-            if(s.charAt(i) != s.charAt(j)) return false;
-            i++;
-            j--;
+    private boolean isPalimdrome(String s , int start , int end){
+        while(start <= end){
+            if(s.charAt(start++) != s.charAt(end--)){
+                return false;
+            }
         }
         return true;
     }
