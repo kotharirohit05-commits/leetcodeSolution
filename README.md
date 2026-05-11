@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2500-delete-greatest-value-in-each-row](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2553-separate-the-digits-in-an-array) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2574-left-and-right-sum-differences](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2574-left-and-right-sum-differences) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2288-count-operations-to-obtain-zero](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2288-count-operations-to-obtain-zero) |
 | [2390-removing-stars-from-a-string](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2390-removing-stars-from-a-string) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2500-delete-greatest-value-in-each-row) |
+| [2553-separate-the-digits-in-an-array](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2553-separate-the-digits-in-an-array) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2662-check-knight-tour-configuration](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2662-check-knight-tour-configuration) |
 | [2974-minimum-number-game](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2974-minimum-number-game) |
