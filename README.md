@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0209-minimum-size-subarray-sum) |
@@ -532,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0278-first-bad-version) |
