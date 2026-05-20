@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3417-zigzag-grid-traversal-with-skip](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3452-sum-of-good-numbers](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3452-sum-of-good-numbers) |
 | [3467-transform-array-by-parity](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3467-transform-array-by-parity) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1975-maximum-matrix-sum) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2662-check-knight-tour-configuration](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2662-check-knight-tour-configuration) |
+| [3417-zigzag-grid-traversal-with-skip](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3643-flip-square-submatrix-vertically](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3643-flip-square-submatrix-vertically) |
 ## Simulation
 |  |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2662-check-knight-tour-configuration](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2662-check-knight-tour-configuration) |
 | [2974-minimum-number-game](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2974-minimum-number-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3417-zigzag-grid-traversal-with-skip](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3477-fruits-into-baskets-ii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3477-fruits-into-baskets-ii) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
