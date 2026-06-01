@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2126-destroying-asteroids) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2270-number-of-ways-to-split-array](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2270-number-of-ways-to-split-array) |
@@ -609,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1859-sorting-the-sentence](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1859-sorting-the-sentence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
@@ -753,6 +755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1975-maximum-matrix-sum) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [3074-apple-redistribution-into-boxes](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3074-apple-redistribution-into-boxes) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
