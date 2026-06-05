@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3556-sum-of-largest-prime-substrings](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-coupon-code-validator](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3606-coupon-code-validator) |
 | [3713-longest-balanced-substring-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3713-longest-balanced-substring-i) |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-score-of-a-string](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3379-score-of-a-string) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3556-sum-of-largest-prime-substrings](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3567-convert-date-to-binary](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3567-convert-date-to-binary) |
 | [3606-coupon-code-validator](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3606-coupon-code-validator) |
 | [3713-longest-balanced-substring-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3713-longest-balanced-substring-i) |
@@ -511,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3279-alice-and-bob-playing-flower-game](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3556-sum-of-largest-prime-substrings](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3567-convert-date-to-binary](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3567-convert-date-to-binary) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -645,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2974-minimum-number-game) |
 | [3074-apple-redistribution-into-boxes](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3074-apple-redistribution-into-boxes) |
 | [3467-transform-array-by-parity](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3467-transform-array-by-parity) |
+| [3556-sum-of-largest-prime-substrings](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3606-coupon-code-validator](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3606-coupon-code-validator) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -829,6 +833,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1952-three-divisors](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2413-smallest-even-multiple) |
+| [3556-sum-of-largest-prime-substrings](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 ## Memoization
