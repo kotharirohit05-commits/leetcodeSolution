@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0941-sort-array-by-parity) |
 | [0944-delete-columns-to-make-sorted](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0944-delete-columns-to-make-sorted) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0969-pancake-sorting](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0969-pancake-sorting) |
 | [0989-add-to-array-form-of-integer](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0989-add-to-array-form-of-integer) |
 | [0992-subarrays-with-k-different-integers](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1004-max-consecutive-ones-iii) |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-shortest-distance-to-a-character](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0841-shortest-distance-to-a-character) |
 | [0908-middle-of-the-linked-list](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0941-sort-array-by-parity) |
+| [0969-pancake-sorting](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0969-pancake-sorting) |
 | [1019-squares-of-a-sorted-array](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1019-squares-of-a-sorted-array) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2000-reverse-prefix-of-word](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2000-reverse-prefix-of-word) |
@@ -620,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-largest-number-at-least-twice-of-others](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0846-hand-of-straights](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0846-hand-of-straights) |
 | [0941-sort-array-by-parity](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0941-sort-array-by-parity) |
+| [0969-pancake-sorting](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0969-pancake-sorting) |
 | [1019-squares-of-a-sorted-array](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1019-squares-of-a-sorted-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -774,6 +777,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0611-valid-triangle-number) |
 | [0846-hand-of-straights](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0860-lemonade-change) |
+| [0969-pancake-sorting](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0969-pancake-sorting) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1903-largest-odd-number-in-string](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1903-largest-odd-number-in-string) |
 | [1975-maximum-matrix-sum](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1975-maximum-matrix-sum) |
