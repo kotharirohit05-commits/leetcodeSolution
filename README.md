@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2270-number-of-ways-to-split-array](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2270-number-of-ways-to-split-array) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1929-concatenation-of-array) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2288-count-operations-to-obtain-zero) |
@@ -452,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1019-squares-of-a-sorted-array) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2000-reverse-prefix-of-word](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2000-reverse-prefix-of-word) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2460-apply-operations-to-an-array](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2460-apply-operations-to-an-array) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2563-count-the-number-of-fair-pairs) |
