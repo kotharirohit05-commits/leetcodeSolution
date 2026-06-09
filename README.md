@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0142-linked-list-cycle-ii) |
 | [0166-fraction-to-recurring-decimal](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0166-fraction-to-recurring-decimal) |
@@ -1055,4 +1057,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0173-binary-search-tree-iterator) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
