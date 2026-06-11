@@ -886,6 +886,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0547-number-of-provinces) |
 | [2662-check-knight-tour-configuration](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2662-check-knight-tour-configuration) |
 ## Breadth-First Search
 |  |
@@ -893,6 +894,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0199-binary-tree-right-side-view) |
+| [0547-number-of-provinces](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0547-number-of-provinces) |
 | [2662-check-knight-tour-configuration](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2662-check-knight-tour-configuration) |
 ## Combinatorics
 |  |
@@ -1067,4 +1069,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
