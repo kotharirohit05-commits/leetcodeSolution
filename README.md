@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3691-maximum-total-subarray-value-ii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
+| [3838-weighted-word-mapping](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3838-weighted-word-mapping) |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 | [3899-angles-of-a-triangle](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3899-angles-of-a-triangle) |
 ## Matrix
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3477-fruits-into-baskets-ii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3477-fruits-into-baskets-ii) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3838-weighted-word-mapping](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
 | ------- |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3713-longest-balanced-substring-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3713-longest-balanced-substring-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
+| [3838-weighted-word-mapping](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3838-weighted-word-mapping) |
 | [3931-check-adjacent-digit-differences](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3931-check-adjacent-digit-differences) |
 ## Stack
 |  |
