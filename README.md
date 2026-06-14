@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0969-pancake-sorting](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0969-pancake-sorting) |
 | [0989-add-to-array-form-of-integer](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0989-add-to-array-form-of-integer) |
 | [0992-subarrays-with-k-different-integers](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0992-subarrays-with-k-different-integers) |
+| [0994-rotting-oranges](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0733-flood-fill) |
 | [0898-transpose-matrix](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0898-transpose-matrix) |
+| [0994-rotting-oranges](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0994-rotting-oranges) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1975-maximum-matrix-sum](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1975-maximum-matrix-sum) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2500-delete-greatest-value-in-each-row) |
@@ -927,6 +929,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0994-rotting-oranges) |
 | [2101-detonate-the-maximum-bombs](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2101-detonate-the-maximum-bombs) |
 | [2662-check-knight-tour-configuration](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2662-check-knight-tour-configuration) |
 ## Combinatorics
