@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0605-can-place-flowers) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0463-island-perimeter](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0733-flood-fill) |
 | [0898-transpose-matrix](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0898-transpose-matrix) |
@@ -739,6 +741,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0131-palindrome-partitioning) |
 | [0435-non-overlapping-intervals](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0509-fibonacci-number) |
+| [0542-01-matrix](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0542-01-matrix) |
 | [0907-sum-of-subarray-minimums](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0907-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1086-divisor-game) |
@@ -926,6 +929,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0733-flood-fill) |
