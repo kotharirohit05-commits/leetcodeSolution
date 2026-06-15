@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1019-squares-of-a-sorted-array](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1019-squares-of-a-sorted-array) |
+| [1020-number-of-enclaves](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1020-number-of-enclaves) |
 | [1037-valid-boomerang](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1037-valid-boomerang) |
 | [1248-count-number-of-nice-subarrays](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1248-count-number-of-nice-subarrays) |
 | [1266-minimum-time-visiting-all-points](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1266-minimum-time-visiting-all-points) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0733-flood-fill) |
 | [0898-transpose-matrix](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0898-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1020-number-of-enclaves) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1975-maximum-matrix-sum](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1975-maximum-matrix-sum) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2500-delete-greatest-value-in-each-row) |
@@ -920,6 +922,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1020-number-of-enclaves) |
 | [2101-detonate-the-maximum-bombs](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2101-detonate-the-maximum-bombs) |
 | [2662-check-knight-tour-configuration](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2662-check-knight-tour-configuration) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -938,6 +941,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1020-number-of-enclaves) |
 | [2101-detonate-the-maximum-bombs](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2101-detonate-the-maximum-bombs) |
 | [2662-check-knight-tour-configuration](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2662-check-knight-tour-configuration) |
 ## Combinatorics
@@ -1120,6 +1124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0695-max-area-of-island) |
+| [1020-number-of-enclaves](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
 |  |
 | ------- |
