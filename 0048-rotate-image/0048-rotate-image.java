@@ -11,7 +11,7 @@ class Solution {
         for(int j = 0 ; j < n ; j++){
             int left = 0 ; 
             int right = n - 1;
-            while(left < right){
+            while(left <= right){
                int temp =  matrix[j][left];
                matrix[j][left] = matrix[j][right];
                matrix[j][right] = temp;
