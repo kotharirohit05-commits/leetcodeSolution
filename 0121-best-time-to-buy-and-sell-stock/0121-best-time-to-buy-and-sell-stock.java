@@ -7,7 +7,7 @@ class Solution {
             if(price < minp){
                 minp = price;
             }else{
-                max = Math.max(max , price- minp);
+                max = Math.max(max , price - minp);
             }
             
         }
