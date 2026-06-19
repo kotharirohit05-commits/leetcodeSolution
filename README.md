@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1652-defuse-the-bomb](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1652-defuse-the-bomb) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1732-find-the-highest-altitude](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1732-find-the-highest-altitude) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1929-concatenation-of-array) |
@@ -865,6 +866,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1590-make-sum-divisible-by-p](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1590-make-sum-divisible-by-p) |
+| [1732-find-the-highest-altitude](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1991-find-the-middle-index-in-array) |
 | [2270-number-of-ways-to-split-array](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2270-number-of-ways-to-split-array) |
 | [2485-find-the-pivot-integer](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2485-find-the-pivot-integer) |
