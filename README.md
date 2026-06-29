@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1929-concatenation-of-array) |
 | [1944-truncate-sentence](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1944-truncate-sentence) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1975-maximum-matrix-sum](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1975-maximum-matrix-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1980-find-unique-binary-string) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1903-largest-odd-number-in-string) |
 | [1944-truncate-sentence](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1944-truncate-sentence) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1945-sum-of-digits-of-string-after-convert) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1980-find-unique-binary-string) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2000-reverse-prefix-of-word](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2000-reverse-prefix-of-word) |
