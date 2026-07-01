@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2574-left-and-right-sum-differences) |
 | [2662-check-knight-tour-configuration](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2662-check-knight-tour-configuration) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2974-minimum-number-game](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2974-minimum-number-game) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1975-maximum-matrix-sum) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2662-check-knight-tour-configuration](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2662-check-knight-tour-configuration) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3643-flip-square-submatrix-vertically](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3643-flip-square-submatrix-vertically) |
 ## Simulation
@@ -656,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2563-count-the-number-of-fair-pairs) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3477-fruits-into-baskets-ii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3477-fruits-into-baskets-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -981,6 +984,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1020-number-of-enclaves) |
 | [2101-detonate-the-maximum-bombs](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2101-detonate-the-maximum-bombs) |
 | [2662-check-knight-tour-configuration](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2662-check-knight-tour-configuration) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Combinatorics
 |  |
 | ------- |
@@ -1048,6 +1052,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2558-take-gifts-from-the-richest-pile) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2974-minimum-number-game](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2974-minimum-number-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
@@ -1166,6 +1171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1020-number-of-enclaves) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Graph Theory
 |  |
 | ------- |
