@@ -5,14 +5,14 @@ class Solution {
         for(int p : piles){
             high = Math.max(p ,high);
         }
-        while(low < high ){
+        while(low <= high ){
             int mid = low + (high - low) / 2;
             long hours = 0;
             for(int n : piles){
                 hours += (n + mid - 1)/mid;
             }
             if(hours <= h){
-                high = mid;
+                high = mid - 1 ;
             }else{
                 low = mid + 1;
             }
