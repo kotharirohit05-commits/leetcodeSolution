@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1266-minimum-time-visiting-all-points](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1266-minimum-time-visiting-all-points) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1301-number-of-paths-with-max-score](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1301-number-of-paths-with-max-score) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0898-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1020-number-of-enclaves) |
+| [1301-number-of-paths-with-max-score](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1301-number-of-paths-with-max-score) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1975-maximum-matrix-sum](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1975-maximum-matrix-sum) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2500-delete-greatest-value-in-each-row) |
@@ -787,6 +789,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0907-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1086-divisor-game) |
+| [1301-number-of-paths-with-max-score](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1301-number-of-paths-with-max-score) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3699-number-of-zigzag-arrays-i) |
