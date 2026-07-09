@@ -529,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0070-climbing-stairs) |
 | [0166-fraction-to-recurring-decimal](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0171-excel-sheet-column-number) |
@@ -784,6 +785,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0131-palindrome-partitioning) |
@@ -940,6 +942,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1013-fibonacci-number) |
 ## Backtracking
