@@ -579,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1837-sum-of-digits-in-base-k](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1837-sum-of-digits-in-base-k) |
 | [1840-maximum-building-height](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1840-maximum-building-height) |
 | [1903-largest-odd-number-in-string](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1903-largest-odd-number-in-string) |
+| [1922-count-good-numbers](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1922-count-good-numbers) |
 | [1925-count-square-sum-triples](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1925-count-square-sum-triples) |
 | [1952-three-divisors](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -904,6 +905,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0779-k-th-symbol-in-grammar](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0779-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1013-fibonacci-number) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1922-count-good-numbers](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1922-count-good-numbers) |
 ## Greedy
 |  |
 | ------- |
