@@ -354,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-most-frequent-even-element](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2404-most-frequent-even-element) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2932-maximum-strong-pair-xor-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -445,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2833-furthest-point-from-origin](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2833-furthest-point-from-origin) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3194-find-words-containing-character](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3194-find-words-containing-character) |
@@ -659,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2341-maximum-number-of-pairs-in-array](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2404-most-frequent-even-element](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2404-most-frequent-even-element) |
 | [2833-furthest-point-from-origin](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2833-furthest-point-from-origin) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3312-sorted-gcd-pair-queries](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3312-sorted-gcd-pair-queries) |
 | [3467-transform-array-by-parity](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3467-transform-array-by-parity) |
@@ -761,6 +764,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2563-count-the-number-of-fair-pairs](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2974-minimum-number-game) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3074-apple-redistribution-into-boxes) |
 | [3467-transform-array-by-parity](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3467-transform-array-by-parity) |
 | [3536-maximum-product-of-two-digits](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3536-maximum-product-of-two-digits) |
@@ -931,6 +935,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3074-apple-redistribution-into-boxes) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
