@@ -10,7 +10,7 @@ class Solution {
         if (obstacleGrid[i][j] == 1)
             return 0;
 
-        if (i == n - 1 && j == m - 1 && obstacleGrid[i][j] == 0) {
+        if (i == n - 1 && j == m - 1) {
             return 1;
         }
 
