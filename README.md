@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3643-flip-square-submatrix-vertically](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3643-flip-square-submatrix-vertically) |
 | [3689-maximum-total-subarray-value-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3731-find-missing-elements](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3731-find-missing-elements) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-coupon-code-validator](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3606-coupon-code-validator) |
 | [3713-longest-balanced-substring-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3713-longest-balanced-substring-i) |
+| [3731-find-missing-elements](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3731-find-missing-elements) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 ## String
@@ -780,6 +782,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-coupon-code-validator](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3606-coupon-code-validator) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3731-find-missing-elements](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3731-find-missing-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
