@@ -1,21 +1,27 @@
 class Solution {
 
-    private boolean isValid(String su) {
+    private int start;
+    private int maxLen;
 
-        int l = 0;
-        int r = su.length() - 1;
+    private void isValid(String s, int left, int right) {
 
+        
 
-        while (l <= r) {
+        while (left >= 0 && right < s.length()
+         && s.charAt(left) == s.charAt(right) ) {
 
-            if (su.charAt(l) != su.charAt(r))
-                return false;
+            
 
-            l++;
-            r--;
+            left--;
+            right++;
         }
 
-        return true;
+        int len = right - left - 1;
+
+        if( len > maxLen){
+            maxLen = len;
+            start = left + 1;
+        }
 
     }
 
@@ -24,15 +30,14 @@ class Solution {
         if(n == 1) return s;
         String ans = "";
         
-        for (int i = 0; i < s.length() - 1; i++) {
-            for (int j = i; j < s.length(); j++) {
-                String substring = s.substring(i, j + 1);
-                if (isValid(substring) && substring.length() > ans.length())  {
-                    ans = substring;
-                }
-            }
+        for(int i = 0; i < n; i++){
+            
+                isValid(s,i,i+1);
+            
+                isValid(s,i,i);
+            
         }
 
-        return ans;
+        return s.substring(start, maxLen + start);
     }
 }
