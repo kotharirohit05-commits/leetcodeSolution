@@ -620,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3536-maximum-product-of-two-digits) |
@@ -997,6 +998,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-square-sum-triples](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1925-count-square-sum-triples) |
 | [1952-three-divisors](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1952-three-divisors) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3713-longest-balanced-substring-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3713-longest-balanced-substring-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
