@@ -570,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0171-excel-sheet-column-number) |
 | [0204-count-primes](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0204-count-primes) |
+| [0279-perfect-squares](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0279-perfect-squares) |
 | [0367-valid-perfect-square](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0441-arranging-coins) |
@@ -855,6 +856,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0213-house-robber-ii) |
+| [0279-perfect-squares](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0279-perfect-squares) |
 | [0435-non-overlapping-intervals](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0542-01-matrix) |
@@ -1082,6 +1084,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0200-number-of-islands) |
+| [0279-perfect-squares](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0279-perfect-squares) |
 | [0463-island-perimeter](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0547-number-of-provinces) |
@@ -1336,4 +1339,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0455-assign-cookies) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
