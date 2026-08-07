@@ -7,64 +7,49 @@ class Solution {
             this.second = second;
         }
     }
-    private void bfs(int i,int j, int[][] visi , int[][] grid){
-
-        Queue<Pair> queue = new LinkedList<>();
-        int[] delr = {-1, 0, 1, 0};
-        int[] delc = {0 ,-1, 0, 1};
+    public int numEnclaves(int[][] grid) {
 
         int n = grid.length;
         int m = grid[0].length;
+        Queue<Pair> queue = new LinkedList<>();
+        boolean[][] visi = new boolean[n][m];
 
-        queue.add(new Pair(i,j));
+        for(int i = 0; i < n; i++){
+            for(int j = 0; j < m; j++){
+                if(i == 0 || j == 0 || i == n - 1 || j == m -1){
+                    if(grid[i][j] == 1){
+                        queue.add(new Pair(i,j));
+                        visi[i][j] = true;
+                    }
+                }
+            }
+        }
+
+        int[] dr = { -1, 0, 1, 0};
+        int[] dc = {0, 1, 0, -1};
+
         while(!queue.isEmpty()){
             int r = queue.peek().first;
             int c = queue.peek().second;
-            queue.remove();
-            for(int z = 0; z < 4 ; z++){
-            int nr = r + delr[z];
-            int nc = c + delc[z];
-            if(nr >= 0 && nr < n && nc >= 0 && nc < m && visi[nr][nc] == 0 && grid[nr][nc] == 1){
-               visi[nr][nc] = 1;
-               queue.add(new Pair(nr, nc)); 
+            queue.poll();
+            for(int i = 0; i < 4; i++){
+                int nr = r + dr[i];
+                int nc = c + dc[i];
+                if(nr >= 0 && nr < n && nc >= 0 && nc < m && grid[nr][nc] == 1 && !visi[nr][nc]){
+                    queue.add(new Pair(nr,nc));
+                    visi[nr][nc] = true;
+                }
             }
         }
-        }
-        
-    }
-    public int numEnclaves(int[][] grid) {
-        int n = grid.length;
-        int m = grid[0].length;
-        int[][] visi = new int[n][m];
-        for(int i = 0; i < m ; i++){
-            if(grid[0][i] == 1){
-                visi[0][i] = 1;
-                bfs(0, i, visi, grid);
-            }
-            if(grid[n-1][i] == 1){
-                visi[n-1][i] = 1;
-                bfs(n-1, i, visi, grid);
-            }
-        }
-        for(int i = 0; i < n ; i++){
-            if(grid[i][0] == 1){
-                visi[i][0] = 1;
-                bfs(i, 0, visi, grid);
-            }
-            if(grid[i][m-1] == 1){
-                visi[i][m-1] = 1;
-                bfs(i, m-1, visi, grid);
-            }
-        }
-
         int ans = 0;
-        for(int i = 0; i < n ; i++){
-            for(int j = 0; j < m ; j++){
-                if(grid[i][j] == 1 && visi[i][j] == 0){
+        for(int i = 0; i < n; i++){
+            for(int j = 0; j < m; j++){
+                if(grid[i][j] == 1 && !visi[i][j]){
                     ans++;
                 }
             }
         }
         return ans;
+
     }
 }
