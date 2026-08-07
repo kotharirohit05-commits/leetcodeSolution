@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1652-defuse-the-bomb](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1652-defuse-the-bomb) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1710-maximum-units-on-a-truck](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1710-maximum-units-on-a-truck) |
 | [1732-find-the-highest-altitude](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1840-maximum-building-height) |
@@ -766,6 +767,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
+| [1710-maximum-units-on-a-truck](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1710-maximum-units-on-a-truck) |
 | [1833-maximum-ice-cream-bars](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -951,6 +953,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0969-pancake-sorting](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0969-pancake-sorting) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1710-maximum-units-on-a-truck](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1710-maximum-units-on-a-truck) |
 | [1833-maximum-ice-cream-bars](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1903-largest-odd-number-in-string](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1903-largest-odd-number-in-string) |
