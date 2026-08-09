@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0695-max-area-of-island) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0724-find-pivot-index](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0735-asteroid-collision) |
@@ -711,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0611-valid-triangle-number) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0792-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0875-koko-eating-bananas) |
@@ -864,6 +866,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0542-01-matrix) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0907-sum-of-subarray-minimums](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0907-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1086-divisor-game) |
@@ -893,6 +896,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0643-maximum-average-subarray-i) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0904-fruit-into-baskets](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0992-subarrays-with-k-different-integers) |
@@ -1359,4 +1363,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0416-partition-equal-subset-sum) |
+## Rolling Hash
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0718-maximum-length-of-repeated-subarray) |
 <!---LeetCode Topics End-->
