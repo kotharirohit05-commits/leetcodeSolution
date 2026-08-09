@@ -16,9 +16,9 @@ class Solution {
                                 0 + helper(idx + 1, 0, prices,dp));
         }
 
-        dp[idx][buy] = profit;
+        
 
-        return dp[idx][buy];
+        return dp[idx][buy] = profit;
 
     }
 
