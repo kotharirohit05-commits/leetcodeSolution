@@ -415,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0504-base-7) |
 | [0516-longest-palindromic-subsequence](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0516-longest-palindromic-subsequence) |
 | [0520-detect-capital](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0520-detect-capital) |
+| [0583-delete-operation-for-two-strings](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0583-delete-operation-for-two-strings) |
 | [0657-robot-return-to-origin](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0657-robot-return-to-origin) |
 | [0686-repeated-string-match](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0686-repeated-string-match) |
 | [0692-top-k-frequent-words](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0692-top-k-frequent-words) |
@@ -869,6 +870,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0542-01-matrix) |
+| [0583-delete-operation-for-two-strings](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0583-delete-operation-for-two-strings) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0907-sum-of-subarray-minimums](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0907-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1013-fibonacci-number) |
@@ -1375,4 +1377,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [0583-delete-operation-for-two-strings](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0583-delete-operation-for-two-strings) |
 <!---LeetCode Topics End-->
