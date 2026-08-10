@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1019-squares-of-a-sorted-array) |
 | [1020-number-of-enclaves](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1020-number-of-enclaves) |
 | [1037-valid-boomerang](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1037-valid-boomerang) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1140-stone-game-ii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1248-count-number-of-nice-subarrays) |
 | [1266-minimum-time-visiting-all-points](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1266-minimum-time-visiting-all-points) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0898-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1301-number-of-paths-with-max-score](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1301-number-of-paths-with-max-score) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1975-maximum-matrix-sum](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1975-maximum-matrix-sum) |
@@ -1120,6 +1122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1091-shortest-path-in-binary-matrix) |
 | [2101-detonate-the-maximum-bombs](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2101-detonate-the-maximum-bombs) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2662-check-knight-tour-configuration](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2662-check-knight-tour-configuration) |
