@@ -608,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1406-stone-game-iii) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1486-xor-operation-in-an-array](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1486-xor-operation-in-an-array) |
+| [1510-stone-game-iv](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1510-stone-game-iv) |
 | [1512-number-of-good-pairs](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1642-water-bottles](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1642-water-bottles) |
@@ -891,6 +892,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1301-number-of-paths-with-max-score) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1406-stone-game-iii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1510-stone-game-iv) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3620-network-recovery-pathways) |
@@ -1152,6 +1154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1086-divisor-game](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1086-divisor-game) |
 | [1140-stone-game-ii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1510-stone-game-iv) |
 ## Design
 |  |
 | ------- |
@@ -1369,11 +1372,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1510-stone-game-iv) |
 ## Manacher
 |  |
 | ------- |
@@ -1427,4 +1432,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
