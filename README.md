@@ -377,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3312-sorted-gcd-pair-queries](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3312-sorted-gcd-pair-queries) |
@@ -477,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3194-find-words-containing-character](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3194-find-words-containing-character) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
@@ -934,6 +936,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2799-count-complete-subarrays-in-an-array](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
