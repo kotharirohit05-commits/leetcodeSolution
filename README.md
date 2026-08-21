@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2974-minimum-number-game) |
 | [3074-apple-redistribution-into-boxes](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3074-apple-redistribution-into-boxes) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3194-find-words-containing-character](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3194-find-words-containing-character) |
@@ -641,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-count-the-digits-that-divide-a-number](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3099-harshad-number](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3099-harshad-number) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -751,6 +753,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2563-count-the-number-of-fair-pairs](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3312-sorted-gcd-pair-queries) |
 | [3477-fruits-into-baskets-ii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3477-fruits-into-baskets-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -853,6 +856,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -1062,6 +1066,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1952-three-divisors](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2413-smallest-even-multiple) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -1156,6 +1161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0062-unique-paths) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3312-sorted-gcd-pair-queries) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Brainteaser
