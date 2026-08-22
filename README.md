@@ -663,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3560-find-minimum-log-transportation-cost](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3560-find-minimum-log-transportation-cost) |
 | [3567-convert-date-to-binary](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3567-convert-date-to-binary) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3700-number-of-zigzag-arrays-ii) |
