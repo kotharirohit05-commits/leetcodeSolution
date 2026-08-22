@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0410-split-array-largest-sum](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -735,6 +736,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0374-guess-number-higher-or-lower) |
+| [0410-split-array-largest-sum](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0410-split-array-largest-sum) |
 | [0441-arranging-coins](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0611-valid-triangle-number) |
@@ -895,6 +897,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0213-house-robber-ii) |
 | [0279-perfect-squares](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0300-longest-increasing-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0509-fibonacci-number) |
@@ -994,6 +997,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0410-split-array-largest-sum](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0605-can-place-flowers) |
@@ -1027,6 +1031,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0930-binary-subarrays-with-sum) |
