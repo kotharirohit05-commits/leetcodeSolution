@@ -510,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3838-weighted-word-mapping](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3838-weighted-word-mapping) |
 | [3931-check-adjacent-digit-differences](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3931-check-adjacent-digit-differences) |
+| [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
 ## Stack
 |  |
 | ------- |
@@ -682,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 | [3899-angles-of-a-triangle](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3899-angles-of-a-triangle) |
 | [3932-count-k-th-roots-in-a-range](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3932-count-k-th-roots-in-a-range) |
+| [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
 ## Queue
 |  |
 | ------- |
@@ -1076,6 +1078,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
+| [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
 ## Number Theory
 |  |
 | ------- |
