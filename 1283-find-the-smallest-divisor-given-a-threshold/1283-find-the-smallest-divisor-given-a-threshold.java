@@ -8,17 +8,16 @@ class Solution {
         
         if(nums.length == threshold) return high;
         
-        while(low < high){
+        while(low <= high){
             int sum = 0;
             int mid = low + (high - low) / 2;
             for(int i = 0; i < nums.length ; i++){
                 sum += ((nums[i] + mid - 1) / mid);
             }
             if(sum <= threshold){
-                high = mid ;
-            }
-            else{
-                low = mid + 1;
+                high = mid - 1 ;
+            }else{
+                low  = mid + 1;;
             }
         }
         return low;
