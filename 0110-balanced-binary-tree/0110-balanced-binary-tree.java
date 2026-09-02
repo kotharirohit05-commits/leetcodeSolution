@@ -20,16 +20,13 @@ class Solution {
     private int dfs(TreeNode root){
         if(root == null) return 0;
 
-        int lhs = dfs(root.left);
-        if(lhs == -1) return -1;
+        int left = dfs(root.left);
+        if (left == -1) return -1;
 
-        int rhs = dfs(root.right);
-        if(rhs == -1) return -1;
+        int right = dfs(root.right);
+        if (right == -1) return -1;
 
-        
-        if(Math.abs(lhs - rhs) > 1) return -1;
-
-        return Math.max(lhs,rhs) + 1;
-
+        if(Math.abs(left - right) > 1) return -1;
+        return Math.max(left,right) + 1;
     }
 }
