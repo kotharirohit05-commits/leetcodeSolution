@@ -1502,4 +1502,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1510-stone-game-iv) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
