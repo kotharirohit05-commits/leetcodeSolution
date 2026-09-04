@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3876-construct-uniform-parity-array-ii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 | [3899-angles-of-a-triangle](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3899-angles-of-a-triangle) |
+| [3903-smallest-stable-index-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3903-smallest-stable-index-i) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/4014-minimum-total-price-after-applying-discounts) |
 | [4020-elevator-requests-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/4020-elevator-requests-i) |
 ## Matrix
@@ -1088,6 +1089,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3699-number-of-zigzag-arrays-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3903-smallest-stable-index-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3903-smallest-stable-index-i) |
 ## Enumeration
 |  |
 | ------- |
