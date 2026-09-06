@@ -425,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0079-word-search) |
+| [0115-distinct-subsequences](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0131-palindrome-partitioning) |
@@ -917,6 +918,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
