@@ -460,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0857-positions-of-large-groups](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0857-positions-of-large-groups) |
 | [0859-buddy-strings](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0859-buddy-strings) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0884-uncommon-words-from-two-sentences) |
+| [0940-distinct-subsequences-ii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0940-distinct-subsequences-ii) |
 | [0944-delete-columns-to-make-sorted](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0944-delete-columns-to-make-sorted) |
 | [1021-remove-outermost-parentheses](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -937,6 +938,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0583-delete-operation-for-two-strings) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0907-sum-of-subarray-minimums](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0907-sum-of-subarray-minimums) |
+| [0940-distinct-subsequences-ii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0940-distinct-subsequences-ii) |
 | [1013-fibonacci-number](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1086-divisor-game) |
 | [1140-stone-game-ii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1140-stone-game-ii) |
