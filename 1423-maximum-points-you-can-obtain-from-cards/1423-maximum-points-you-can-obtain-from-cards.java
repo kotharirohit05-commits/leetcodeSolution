@@ -1,33 +1,23 @@
 class Solution {
-    
-    public int maxScore(int[] nums, int k) {
-        int ls = 0;
-        int rs = 0;
-        int ms = 0;
+    public int maxScore(int[] cardPoints, int k) {
 
-        for(int i = 0 ; i < k ; i++){
-             ls += nums[i];
+        int n = cardPoints.length;
+        int currsum = 0;
+        
+        for(int i = 0; i < k; i++){
+            currsum += cardPoints[i];
         }
+        
+        int maxscore = currsum;
 
-        ms = ls;
-        int n = nums.length;
-        int l = k-1;
-        int p = nums.length - 1;
+        int j = n - 1;
 
-        for(int i = k-1 ; i >= 0 ; i--){
-            ls -= nums[i];
-            rs += nums[p];
-            ms = Math.max(ms , rs + ls);
-            p--;
+        for(int i = k - 1; i >= 0; i--){
+            currsum = currsum - cardPoints[i] + cardPoints[j];
+            maxscore = Math.max(maxscore, currsum);
+            j--;
         }
-        return ms;
+        return maxscore;
 
-    }
-   static{
-        Runtime.getRuntime().addShutdownHook(new Thread(()->{
-            try(java.io.FileWriter f=new java.io.FileWriter("display_runtime.txt")){
-                f.write("0");
-            }catch(Exception e){}
-        }));
     }
 }
