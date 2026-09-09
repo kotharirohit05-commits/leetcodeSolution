@@ -1,31 +1,53 @@
 class Solution {
-    private void dfs(int[][] image, int[][] ans, int initial, int sr, int sc, int color){
 
-        ans[sr][sc] = color;
-        int n = image.length;
-        int m = image[0].length;
-        int[] drow = {-1, 0, 1, 0};
-        int[] dcol = {0, 1, 0 ,-1};
-
-        for(int i = 0 ; i < 4 ; i++){
-            int nr = sr + drow[i];
-            int cr = sc + dcol[i];
-            if(nr >= 0 && nr < n && cr >= 0 && cr < m && ans[nr][cr] != color && image[nr][cr] == initial){
-                dfs(image, ans, initial, nr, cr, color);
-            }
+    class Pair{
+        int row;
+        int col;
+        Pair(int row, int col){
+            this.row = row;
+            this.col = col;
         }
     }
+
     public int[][] floodFill(int[][] image, int sr, int sc, int color) {
         int n = image.length;
         int m = image[0].length;
-        int[][] ans = new int[n][m];
+        int[][] mat = new int[n][m];
+
         for(int i = 0; i < n; i++){
             for(int j = 0; j < m; j++){
-                ans[i][j] = image[i][j];
+                mat[i][j] = image[i][j];
             }
         }
-        int initial = image[sr][sc];
-        dfs(image, ans, initial, sr, sc, color);
-        return ans;
+        
+        Queue<Pair> queue = new LinkedList<>();
+        
+        int startcolour = image[sr][sc];
+        
+        
+        if(mat[sr][sc] != color){
+            queue.add(new Pair(sr,sc));
+            mat[sr][sc] = color;
+        }
+            
+        int[] dr = {-1, 0, 1, 0};
+        int[] dc = {0, -1, 0, 1};
+
+        while(!queue.isEmpty()){
+            int r = queue.peek().row;
+            int c = queue.peek().col;
+            queue.remove();
+            for(int i = 0; i < 4; i++){
+                int nr = r + dr[i];
+                int nc = c + dc[i];
+                if(nr >= 0 && nr < n && nc >= 0 && nc < m  && mat[nr][nc] == startcolour){
+                    mat[nr][nc] = color;
+                    queue.add(new Pair(nr,nc));
+                }
+            }
+
+        }
+        return mat;
+
     }
 }
