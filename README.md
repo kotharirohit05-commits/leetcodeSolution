@@ -466,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1143-longest-common-subsequence](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1189-maximum-number-of-balloons) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -946,6 +947,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1086-divisor-game) |
 | [1140-stone-game-ii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1140-stone-game-ii) |
+| [1143-longest-common-subsequence](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1143-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1301-number-of-paths-with-max-score) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1406-stone-game-iii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1406-stone-game-iii) |
@@ -1492,6 +1494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0583-delete-operation-for-two-strings) |
+| [1143-longest-common-subsequence](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1143-longest-common-subsequence) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
