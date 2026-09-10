@@ -1,41 +1,32 @@
 class Solution {
 
-    private boolean helper(int idx, int[] nums, int req, Boolean[][] dp){
-        
-        if(req == 0){
-            return true;
-        }
+    private boolean helper(int[] nums, int idx, int target, Boolean[][] dp){
 
-        if(idx == nums.length){
-            return false;
-        }
+        if(target == 0) return true;
 
-        if(dp[idx][req] != null){
-            return dp[idx][req];
-        }
+        if(idx == 0) return false;
+
+        if(dp[idx][target] != null) return dp[idx][target];
+
+        boolean notpick = helper(nums, idx - 1, target, dp);
         boolean pick = false;
-        if (nums[idx] <= req) {
-            pick = helper(idx + 1, nums, req - nums[idx], dp);
+        if(nums[idx] <= target){
+            pick = helper(nums, idx - 1, target - nums[idx], dp);
         }
-        
-        boolean notpick = helper(idx + 1 , nums, req, dp);
 
-        return dp[idx][req] = pick || notpick;
-        
+        return dp[idx][target] = notpick || pick;
+
 
     }
 
     public boolean canPartition(int[] nums) {
-        int req = 0;
+        int sum = 0;
         for(int x : nums){
-            req += x;
+            sum += x;
         }
-
-        Boolean[][] dp = new Boolean[nums.length][req + 1];
-        
-        if(req % 2 != 0) return false;
-        
-        return helper(0, nums, req / 2, dp);
-
+        int target = sum / 2;
+        if( sum % 2 != 0) return false;
+        Boolean[][] dp = new Boolean[nums.length][target + 1];
+        return helper(nums, nums.length - 1, target, dp);
     }
 }
