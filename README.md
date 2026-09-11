@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3467-transform-array-by-parity](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3467-transform-array-by-parity) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3477-fruits-into-baskets-ii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3477-fruits-into-baskets-ii) |
+| [3483-unique-3-digit-even-numbers](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3483-unique-3-digit-even-numbers) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3483-unique-3-digit-even-numbers) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -1036,6 +1038,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1013-fibonacci-number) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1922-count-good-numbers](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1922-count-good-numbers) |
+| [3483-unique-3-digit-even-numbers](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3483-unique-3-digit-even-numbers) |
 ## Greedy
 |  |
 | ------- |
@@ -1115,6 +1118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1952-three-divisors](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1952-three-divisors) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3483-unique-3-digit-even-numbers) |
 | [3713-longest-balanced-substring-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3713-longest-balanced-substring-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3751-total-waviness-of-numbers-in-range-i) |
