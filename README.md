@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3452-sum-of-good-numbers](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3452-sum-of-good-numbers) |
@@ -794,6 +795,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3312-sorted-gcd-pair-queries) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3477-fruits-into-baskets-ii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3477-fruits-into-baskets-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3620-network-recovery-pathways](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3620-network-recovery-pathways) |
@@ -861,6 +863,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2974-minimum-number-game) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3074-apple-redistribution-into-boxes) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3467-transform-array-by-parity](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3467-transform-array-by-parity) |
 | [3536-maximum-product-of-two-digits](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3536-maximum-product-of-two-digits) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3556-sum-of-largest-prime-substrings) |
@@ -958,6 +961,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1510-stone-game-iv) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3699-number-of-zigzag-arrays-i) |
