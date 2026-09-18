@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4008-minimum-initial-strength-to-defeat-all-monsters](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/4008-minimum-initial-strength-to-defeat-all-monsters) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/4014-minimum-total-price-after-applying-discounts) |
 | [4020-elevator-requests-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/4020-elevator-requests-i) |
+| [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3731-find-missing-elements) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
+| [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
 ## String
 |  |
 | ------- |
