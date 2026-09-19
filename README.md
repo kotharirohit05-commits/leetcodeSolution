@@ -658,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1344-angle-between-hands-of-a-clock](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1360-number-of-days-between-two-dates](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1360-number-of-days-between-two-dates) |
 | [1390-four-divisors](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1390-four-divisors) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1406-stone-game-iii) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1486-xor-operation-in-an-array](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1486-xor-operation-in-an-array) |
@@ -1295,6 +1296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0836-rectangle-overlap) |
 | [1037-valid-boomerang](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1037-valid-boomerang) |
 | [1266-minimum-time-visiting-all-points](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1266-minimum-time-visiting-all-points) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1401-circle-and-rectangle-overlapping) |
 | [2101-detonate-the-maximum-bombs](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2101-detonate-the-maximum-bombs) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [3899-angles-of-a-triangle](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3899-angles-of-a-triangle) |
