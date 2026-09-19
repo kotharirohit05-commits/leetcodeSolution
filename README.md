@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/4014-minimum-total-price-after-applying-discounts) |
 | [4020-elevator-requests-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/4020-elevator-requests-i) |
 | [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
+| [4054-count-shadow-pairs-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/4054-count-shadow-pairs-i) |
 ## Matrix
 |  |
 | ------- |
@@ -570,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2000-reverse-prefix-of-word) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2390-removing-stars-from-a-string) |
+| [4054-count-shadow-pairs-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/4054-count-shadow-pairs-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -1037,6 +1039,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0937-online-stock-span](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0937-online-stock-span) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [4054-count-shadow-pairs-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/4054-count-shadow-pairs-i) |
 ## Linked List
 |  |
 | ------- |
