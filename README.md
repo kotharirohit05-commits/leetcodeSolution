@@ -329,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3477-fruits-into-baskets-ii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3477-fruits-into-baskets-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3614-process-string-with-special-operations-ii) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -526,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3348-smallest-divisible-digit-product-ii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3379-score-of-a-string](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3379-score-of-a-string) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3498-reverse-degree-of-a-string](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3498-reverse-degree-of-a-string) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3556-sum-of-largest-prime-substrings) |
