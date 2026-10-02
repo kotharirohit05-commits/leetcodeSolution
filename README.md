@@ -335,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2662-check-knight-tour-configuration](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2662-check-knight-tour-configuration) |
 | [2974-minimum-number-game](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2974-minimum-number-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3477-fruits-into-baskets-ii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3477-fruits-into-baskets-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3498-reverse-degree-of-a-string) |
@@ -711,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -945,6 +947,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -1094,6 +1097,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1013-fibonacci-number) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1922-count-good-numbers](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1922-count-good-numbers) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3483-unique-3-digit-even-numbers) |
 ## Greedy
 |  |
