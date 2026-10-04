@@ -485,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0520-detect-capital) |
 | [0583-delete-operation-for-two-strings](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0583-delete-operation-for-two-strings) |
 | [0657-robot-return-to-origin](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0657-robot-return-to-origin) |
+| [0678-valid-parenthesis-string](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0678-valid-parenthesis-string) |
 | [0686-repeated-string-match](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0686-repeated-string-match) |
 | [0692-top-k-frequent-words](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0692-top-k-frequent-words) |
 | [0709-to-lower-case](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0709-to-lower-case) |
@@ -579,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0739-daily-temperatures) |
@@ -1005,6 +1007,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0583-delete-operation-for-two-strings) |
+| [0678-valid-parenthesis-string](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0678-valid-parenthesis-string) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0907-sum-of-subarray-minimums](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0907-sum-of-subarray-minimums) |
 | [0940-distinct-subsequences-ii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0940-distinct-subsequences-ii) |
@@ -1118,6 +1121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0611-valid-triangle-number) |
+| [0678-valid-parenthesis-string](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0678-valid-parenthesis-string) |
 | [0846-hand-of-straights](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0860-lemonade-change) |
 | [0969-pancake-sorting](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0969-pancake-sorting) |
@@ -1642,6 +1646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
