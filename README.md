@@ -496,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0857-positions-of-large-groups](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0857-positions-of-large-groups) |
 | [0859-buddy-strings](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0859-buddy-strings) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0884-uncommon-words-from-two-sentences) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0940-distinct-subsequences-ii) |
 | [0944-delete-columns-to-make-sorted](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0944-delete-columns-to-make-sorted) |
 | [1021-remove-outermost-parentheses](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1021-remove-outermost-parentheses) |
@@ -586,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0856-score-of-parentheses) |
 | [0907-sum-of-subarray-minimums](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0907-sum-of-subarray-minimums) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0937-online-stock-span](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0937-online-stock-span) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1021-remove-outermost-parentheses) |
@@ -1124,6 +1126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0678-valid-parenthesis-string) |
 | [0846-hand-of-straights](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0860-lemonade-change) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0969-pancake-sorting](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0969-pancake-sorting) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -1647,6 +1650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
