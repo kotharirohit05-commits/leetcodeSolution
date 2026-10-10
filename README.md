@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2270-number-of-ways-to-split-array](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2270-number-of-ways-to-split-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2404-most-frequent-even-element](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2404-most-frequent-even-element) |
@@ -843,6 +844,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -910,6 +912,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2500-delete-greatest-value-in-each-row) |
@@ -1146,6 +1149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -1401,6 +1405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1631-path-with-minimum-effort) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2558-take-gifts-from-the-richest-pile) |
