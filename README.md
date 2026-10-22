@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3899-angles-of-a-triangle](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3899-angles-of-a-triangle) |
 | [3903-smallest-stable-index-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3904-smallest-stable-index-ii) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [4008-minimum-initial-strength-to-defeat-all-monsters](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/4008-minimum-initial-strength-to-defeat-all-monsters) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/4014-minimum-total-price-after-applying-discounts) |
 | [4020-elevator-requests-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/4020-elevator-requests-i) |
