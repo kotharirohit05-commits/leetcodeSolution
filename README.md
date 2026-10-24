@@ -551,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2346-largest-3-same-digit-number-in-string](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2390-removing-stars-from-a-string](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2390-removing-stars-from-a-string) |
+| [2409-count-days-spent-together](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2833-furthest-point-from-origin](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2833-furthest-point-from-origin) |
@@ -724,6 +725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-count-integers-with-even-digit-sum](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2235-add-two-integers](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2235-add-two-integers) |
 | [2288-count-operations-to-obtain-zero](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2288-count-operations-to-obtain-zero) |
+| [2409-count-days-spent-together](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2409-count-days-spent-together) |
 | [2413-smallest-even-multiple](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2469-convert-the-temperature) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2481-minimum-cuts-to-divide-a-circle) |
