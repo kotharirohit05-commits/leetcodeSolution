@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1140-stone-game-ii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1248-count-number-of-nice-subarrays) |
+| [1254-number-of-closed-islands](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1254-number-of-closed-islands) |
 | [1266-minimum-time-visiting-all-points](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1266-minimum-time-visiting-all-points) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1288-remove-covered-intervals) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1254-number-of-closed-islands](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1254-number-of-closed-islands) |
 | [1301-number-of-paths-with-max-score](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1301-number-of-paths-with-max-score) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1631-path-with-minimum-effort) |
@@ -1304,6 +1306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1254-number-of-closed-islands) |
 | [1631-path-with-minimum-effort](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1631-path-with-minimum-effort) |
 | [2101-detonate-the-maximum-bombs](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2101-detonate-the-maximum-bombs) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -1336,6 +1339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1096-brace-expansion-ii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1254-number-of-closed-islands) |
 | [1631-path-with-minimum-effort](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1631-path-with-minimum-effort) |
 | [2101-detonate-the-maximum-bombs](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2101-detonate-the-maximum-bombs) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -1577,6 +1581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1254-number-of-closed-islands) |
 | [1631-path-with-minimum-effort](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1631-path-with-minimum-effort) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2685-count-the-number-of-complete-components) |
