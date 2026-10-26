@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-coupon-code-validator](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3606-coupon-code-validator) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3616-make-array-elements-equal-to-zero) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3620-network-recovery-pathways](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3417-zigzag-grid-traversal-with-skip) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3643-flip-square-submatrix-vertically](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3643-flip-square-submatrix-vertically) |
 ## Simulation
 |  |
@@ -1316,6 +1318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3310-remove-methods-from-project](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3310-remove-methods-from-project) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -1348,6 +1351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3310-remove-methods-from-project) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Combinatorics
 |  |
 | ------- |
@@ -1587,6 +1591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2685-count-the-number-of-complete-components](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
 | ------- |
