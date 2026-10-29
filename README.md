@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3838-weighted-word-mapping](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3838-weighted-word-mapping) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -585,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3838-weighted-word-mapping](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3838-weighted-word-mapping) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3931-check-adjacent-digit-differences](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3931-check-adjacent-digit-differences) |
 | [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
 ## Stack
@@ -994,6 +996,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Divide and Conquer
 |  |
@@ -1011,6 +1014,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0347-top-k-frequent-elements) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -1323,6 +1327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -1490,6 +1495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3525-find-x-value-of-array-ii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3525-find-x-value-of-array-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Ordered Set
 |  |
 | ------- |
@@ -1532,6 +1538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1710,4 +1717,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3841-palindromic-path-queries-in-a-tree) |
 <!---LeetCode Topics End-->
