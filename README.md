@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3312-sorted-gcd-pair-queries) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3364-minimum-positive-sum-subarray](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3364-minimum-positive-sum-subarray) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3417-zigzag-grid-traversal-with-skip) |
@@ -1139,6 +1140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3364-minimum-positive-sum-subarray) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Monotonic Stack
 |  |
@@ -1255,6 +1257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2574-left-and-right-sum-differences) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3312-sorted-gcd-pair-queries) |
+| [3364-minimum-positive-sum-subarray](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3364-minimum-positive-sum-subarray) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3616-make-array-elements-equal-to-zero) |
