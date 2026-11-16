@@ -358,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2288-count-operations-to-obtain-zero) |
 | [2390-removing-stars-from-a-string](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2390-removing-stars-from-a-string) |
@@ -572,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2085-count-common-words-with-one-occurrence](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2129-capitalize-the-title](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2129-capitalize-the-title) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2278-percentage-of-letter-in-string](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2278-percentage-of-letter-in-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
