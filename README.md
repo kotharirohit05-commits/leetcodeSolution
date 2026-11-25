@@ -296,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3899-angles-of-a-triangle](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3899-angles-of-a-triangle) |
 | [3903-smallest-stable-index-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3904-smallest-stable-index-ii) |
+| [3934-smallest-unique-subarray](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [4008-minimum-initial-strength-to-defeat-all-monsters](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/4008-minimum-initial-strength-to-defeat-all-monsters) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/4014-minimum-total-price-after-applying-discounts) |
@@ -485,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3731-find-missing-elements) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
+| [3934-smallest-unique-subarray](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3934-smallest-unique-subarray) |
 | [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## String
@@ -920,6 +922,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 | [3932-count-k-th-roots-in-a-range](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3932-count-k-th-roots-in-a-range) |
+| [3934-smallest-unique-subarray](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3934-smallest-unique-subarray) |
 | [4008-minimum-initial-strength-to-defeat-all-monsters](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/4008-minimum-initial-strength-to-defeat-all-monsters) |
 ## Sorting
 |  |
@@ -1730,10 +1733,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [3934-smallest-unique-subarray](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3934-smallest-unique-subarray) |
 ## Hash Function
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [3934-smallest-unique-subarray](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3934-smallest-unique-subarray) |
 ## Longest Common Subsequence
 |  |
 | ------- |
@@ -1788,4 +1793,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/kotharirohit05-commits/leetcodeSolution/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
